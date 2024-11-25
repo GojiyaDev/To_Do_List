@@ -1,11 +1,11 @@
 # To_Do_List Application
 This is a simple To-Do List application built with Python's Tkinter for GUI and reportlab for PDF generation. The app allows users to manage daily tasks efficiently and save them as a PDF file for reference.
-<br>
+<br><br>
 Features:<br>
-1 Add Tasks: Enter a task and add it to the list.<br>
-2 Delete Tasks: Remove unwanted tasks from the list.<br>
-3 Mark as Completed: Highlight tasks as completed by marking them with a ✔.<br>
-4 Save to PDF: Export the current task list to a neatly formatted PDF file.<br>
+<b>1 Add Tasks</b>: Enter a task and add it to the list.<br>
+<b>2 Delete Tasks</b>: Remove unwanted tasks from the list.<br>
+<b>3 Mark as Completed</b>: Highlight tasks as completed by marking them with a ✔.<br>
+<b>4 Save to PDF</b>: Export the current task list to a neatly formatted PDF file.<br>
 <br>
 How to Use:<br>
 1 Add a Task: Enter a task in the input field and click "Add Task."<br>
