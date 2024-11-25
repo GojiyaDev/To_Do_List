@@ -13,7 +13,7 @@ This is a simple To-Do List application built with Python's Tkinter for GUI and 
 3 Mark a Task as Completed: Select a task from the list and click "Mark Completed." It will append a ✔ to the task.<br>
 4 Save Tasks to PDF: Click "Save to PDF" to export the tasks to a file named todo_list.pdf in the current directory.<br>
 <br>
-![Python Quiz Screenshot](Screenshot 2024-11-25 231151.png)
+![To_Do_List](Screenshot 2024-11-25 231151.png)
 <br>
 <b>System Requirements:</b><br>
 Python 3.x<br>
